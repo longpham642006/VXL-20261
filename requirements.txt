@@ -1,0 +1,3 @@
+# Khảo sát dữ liệu ECG trên PC
+wfdb>=4,<5
+matplotlib>=3,<4
